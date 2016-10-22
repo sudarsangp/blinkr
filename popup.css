@@ -1,0 +1,19 @@
+body {
+  width: 200px;
+}
+
+#inputtime {
+  width: 20px;
+}
+
+#blinkrOff {
+  float: right;
+}
+
+.blinkr-buttons {
+  margin-top: 5px;
+}
+
+#time {
+  float: right;
+}
